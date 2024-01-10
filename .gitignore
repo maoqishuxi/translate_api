@@ -1,0 +1,6 @@
+
+*.mod
+*.sum
+*.env
+*.exe
+*.http
